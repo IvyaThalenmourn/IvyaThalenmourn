@@ -2,4 +2,3 @@
 - 👀 I’m interested in all things space related, whether sci-fi or current technology.
 - 🌱 I’m currently learning to code in Python, MATLAB, and CSS. I've worked on projects requiring C/C++, Perl, and PGML.
 - 💞️ One of my previous projects was creating problems for the WeBWorK open library.
-- 📫 I can be reached by the email ivyathalenmourn@gmail.com, but it may take a bit before you get an answer.
